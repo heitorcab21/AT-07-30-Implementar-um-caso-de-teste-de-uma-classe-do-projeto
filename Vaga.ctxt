@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Vaga
+comment1.params=numero\ ocupada
+comment1.target=Vaga(int,\ boolean)
+comment2.params=
+comment2.target=int\ getNumero()
+comment3.params=
+comment3.target=boolean\ isOcupada()
+comment4.params=
+comment4.target=void\ ocupar()
+comment5.params=
+comment5.target=void\ desocupar()
+numComments=6
